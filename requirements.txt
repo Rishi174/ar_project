@@ -1,6 +1,5 @@
 streamlit==1.13.0
 keras==2.6.0
 numpy==1.21.4
-SoundFile
 librosa==0.9.1
 pandas==1.4.3
